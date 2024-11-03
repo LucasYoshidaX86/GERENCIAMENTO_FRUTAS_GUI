@@ -15,7 +15,7 @@ Descrição do projeto: Este projeto cria um sistema simples utilizando a lingua
   Print Screen do projeto funcionando:
 
   
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/MODELO_TELA/blob/main/Captura%20de%20tela%202024-10-30%20210300.png)
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/GERENCIAMENTO_FRUTAS_GUI/blob/main/Captura%20de%20tela%202024-11-03%20005908.png)
 
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
 
