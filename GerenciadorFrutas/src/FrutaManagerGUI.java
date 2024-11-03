@@ -121,7 +121,7 @@ dizendo que não tem nenhuma fruta na lista "Nenhuma fruta na lista".*/
 		});
 		
 
-//Criação do ouvinte, onde verifica se exite interação com o sistema, e caso houver interação, o sistema habilita outras funcionalidades.
+//Criação do ouvinte, onde verifica se existe interação com o sistema, e caso houver interação, o sistema habilita outras funcionalidades.
 		list.addListSelectionListener(e -> {
 			boolean selectionExists = !list.isSelectionEmpty();
 			removeButton.setEnabled(selectionExists);
